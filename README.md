@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love playing musical instruments and am a decent guitarist. (I love singing when no one's around ;)**
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
+(img align="right" alt="Coding" width="400" src="https://pin.it/3eMQfRB")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
