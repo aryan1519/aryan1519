@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love playing musical instruments and am a decent guitarist. (I love singing when no one's around ;)**
 
-<p><img align="right" alt="Coding" width="400" src="https://github.com/aryan1519/RandomStuff/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif"/></p>
+<p><img align="right" alt="Coding" width="300" src="https://github.com/aryan1519/RandomStuff/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif"/></p>
 
 [![Aryan Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan1519&show_icons=true&theme=dracula)](https://github.com/aryan1519/github-readme-stats)
 
