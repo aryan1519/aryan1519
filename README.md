@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love playing musical instruments and am a decent guitarist. (I love singing when no one's around ;)**
 
-(img align="right" alt="Coding" width="400" src="https://pin.it/3eMQfRB")
+(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/5510801-Artificial-intelligence-Face-recognition?utm_source=Clipboard_Shot&utm_campaign=KlausHuang&utm_content=Artificial%20intelligence%20-%20Face%20recognition&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=KlausHuang&utm_content=Artificial%20intelligence%20-%20Face%20recognition&utm_medium=Social_Share")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
