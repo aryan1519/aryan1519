@@ -15,7 +15,7 @@
 
 <p><img align="right" alt="Coding" width="300" src="https://github.com/aryan1519/RandomStuff/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif"/></p>
 
-[![Aryan Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan1519)](https://github.com/aryan1519/github-readme-stats)
+[![Aryan Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan1519)](https://github.com/aryan1519/github-readme-stats&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
