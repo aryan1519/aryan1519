@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on running ML models on the web.
 - 🌱 I’m currently learning **3js**
 
-- 🌐 My interactive website which is still work in progress [aryansharma1519.herokuapp.com](aryansharma1519.herokuapp.com)
+- 🌐 My interactive website which is still work in progress [aryansharma1519.herokuapp.com](https://aryansharma1519.herokuapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryan1519](https://github.com/aryan1519)
 
