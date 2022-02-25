@@ -16,7 +16,7 @@
 
 <p><img align="right" alt="Coding" width="300" src="https://github.com/aryan1519/RandomStuff/blob/main/-%20Find%20%26%20Share%20on%20GIPHY.gif"/></p>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aryan1519?cardType=level&theme=dracula)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aryan1519?cardType=github&theme=tokyonight)](https://git.io/awesome-stats-card)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
