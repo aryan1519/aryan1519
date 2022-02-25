@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center">A passionate machine learning and data science student from India.</h3>
 
-- 🔭 I’m currently working on **SkimLit,BitPredict**
+- 🔭 I’m currently working on running ML models on the web.
+- 🌱 I’m currently learning **3js**
 
-- 🌱 I’m currently learning **Tensorflow**
+  My interactive website which is still work in progress aryansharma1519.herokuapp.com
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryan1519](https://github.com/aryan1519)
 
