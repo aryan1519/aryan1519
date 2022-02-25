@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan15191519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan15191519" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aryan1519/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Instagram.svg" alt="aryan15191519" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
